@@ -1,5 +1,5 @@
-estropay-api-client
-===================
+EstroPay API PHP Client
+=======================
 
 PHP Client library to call EstroPay APIs.
 
